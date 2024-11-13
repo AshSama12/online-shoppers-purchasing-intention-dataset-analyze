@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves analyzing an online shopper's purchasing intention dataset using machine learning techniques. The goal is to perform clustering on the dataset using K-means and Gaussian Mixture Model (GMM) algorithms, and to compare the performance of these clustering techniques based on various evaluation metrics.
+This project involves analyzing an online shopper's purchasing intention dataset using machine learning techniques. The goal is to perform clustering on the dataset using K-means and Gaussian Mixture Model (GMM) algorithms and to compare the performance of these clustering techniques based on various evaluation metrics.
 
 ## Dataset
 
