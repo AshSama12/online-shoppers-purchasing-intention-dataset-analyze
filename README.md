@@ -57,13 +57,13 @@ The dataset used in this project is the "Online Shoppers Purchasing Intention" d
 1. **K-means Clustering:**
    - Implemented K-means clustering algorithm.
    - Determined the optimal number of clusters using the elbow method.
-   - Evaluated clustering performance using Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score.
+   - Evaluated clustering performance using the Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score.
    - Visualized clusters and cluster centers.
 
 2. **Gaussian Mixture Model (GMM):**
    - Implemented GMM using the Expectation-Maximization (EM) algorithm.
    - Initialized parameters and trained the GMM model.
-   - Evaluated clustering performance using Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score.
+   - Evaluated clustering performance using the Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score.
    - Visualized clusters and convergence.
 
 ## Results
