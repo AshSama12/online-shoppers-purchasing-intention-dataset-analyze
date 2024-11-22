@@ -1,4 +1,4 @@
-# Online Shoppers Purchasing Intention Analysis
+# Online Shoppers Purchasing Intention Analysis.
 
 ## Project Overview
 
