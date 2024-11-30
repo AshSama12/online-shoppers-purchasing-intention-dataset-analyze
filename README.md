@@ -39,7 +39,7 @@ The dataset used in this project is the "Online Shoppers Purchasing Intention" d
 
 3. **Feature Distribution:**
    - Plotted histograms of numerical features, separated by the target variable.
-   - Created a correlation matrix heatmap.
+   - Created a correlation matrix heatmap
 
 ## Data Preprocessing
 
