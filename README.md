@@ -66,7 +66,7 @@ The dataset used in this project is the "Online Shoppers Purchasing Intention" d
    - Evaluated clustering performance using the Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score.
    - Visualized clusters and convergence.
 
-## Results
+## Results:
 
 - **K-means Clustering Metrics:**
   - Silhouette Score: `0.241`
